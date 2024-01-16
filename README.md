@@ -1,4 +1,3 @@
-# README
 
 This is a Rust implementation of a simple elementary cellular automaton (ECA) simulation that follows the rules specified by a given rule set. 
 
